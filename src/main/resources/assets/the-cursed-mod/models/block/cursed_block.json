@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "the-cursed-mod:block/texture",
+    "east": "the-cursed-mod:block/texture2",
+    "north": "the-cursed-mod:block/texture3",
+    "particle": "the-cursed-mod:block/texture3",
+    "south": "the-cursed-mod:block/texture4",
+    "up": "the-cursed-mod:block/texture5",
+    "west": "the-cursed-mod:block/texture6"
+  }
+}
