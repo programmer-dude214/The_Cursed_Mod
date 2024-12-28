@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "the-cursed-mod:cursed_block",
+    "the-cursed-mod:cursed_item_ore",
+    "the-cursed-mod:cursed_item_deepslate_ore"
+  ]
+}
