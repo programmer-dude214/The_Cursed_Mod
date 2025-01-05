@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "the-cursed-mod",
+  "version": "${version}",
+  "name": "The Cursed Mod",
+  "description": "This is a mod made to change some things in Minecraft to make it weird! Made by GamerCave",
+  "authors": [
+    "GamerCave"
+  ],
+  "contact": {
+    "homepage": "https://gamercave.net",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/the-cursed-mod/TheCursedModIcon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "the.cursed.mod.TheCursedMod"
+    ],
+    "fabric-datagen": [
+      "the.cursed.mod.TheCursedModDataGenerator"
+    ],
+    "client": [
+      "the.cursed.mod.TheCursedModClient"
+    ]
+  },
+  "mixins": [
+    "the-cursed-mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": ""
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

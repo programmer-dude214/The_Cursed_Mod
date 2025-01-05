@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    }
+  ],
+  "result": {
+    "id": "the-cursed-mod:diamonder"
+  }
+}

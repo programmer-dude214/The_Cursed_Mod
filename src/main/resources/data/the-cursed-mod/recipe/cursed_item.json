@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "categeory": "building",
+  "ingredients": [
+    {
+      "item": "the-cursed-mod:cursed_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "the-cursed-mod:cursed_item"
+  }
+}
