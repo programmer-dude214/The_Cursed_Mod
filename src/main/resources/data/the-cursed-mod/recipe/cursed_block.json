@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "pattern": [],
+  "key": {
+    "the-cursed-mod:cursed_item": {
+      "item": "the-cursed-mod:cursed_item"
+    }
+  },
+  "ingredients": [
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    },
+    {
+      "item": "the-cursed-mod:cursed_item"
+    }
+  ],
+  "result": {
+    "id": "the-cursed-mod:cursed_block",
+    "count": 1
+  }
+}
